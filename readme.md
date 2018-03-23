@@ -4,4 +4,4 @@ The source code is divided into the files Classifier.py, DataSet.py and Driver.p
 
 * Classifier.py : Implements algorithm for the Naive Bayes and Logistic Regression classifiers.
 
-* DataSet.py : Implements data collection and partitioning logic to facilitate provision of training and test data in the k-fold cross validation testing.
+* DataSet.py : Implements data collection and partitioning logic to facilitate provisioning of training and test data in the k-fold cross validation testing.
